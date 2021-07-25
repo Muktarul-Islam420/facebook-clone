@@ -5,7 +5,11 @@
 }
 .login > div > img{
     object-fit: contain;
-    height: 150px;
+    height: 100px;
+}
+
+.login > div > .facebook__text{
+    margin-top:100px;
 }
 
 .login > button {
@@ -20,10 +24,6 @@
     color: #2e81f4;
 }
 
-.login > div > img{
-    object-fit: contain;
-    height: 150px;
-}
 
 .login > div {
     display:flex;
