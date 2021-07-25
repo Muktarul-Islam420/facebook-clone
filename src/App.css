@@ -5,3 +5,7 @@
 .app__body{
   display:flex;
 }
+
+body {
+  background-color:#f1f2f5
+}

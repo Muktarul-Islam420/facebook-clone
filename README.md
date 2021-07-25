@@ -1,5 +1,6 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# Facebook
+### developed by
+##  Muktarul Islam
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -19,6 +20,16 @@ AngularJS-powered HTML5 Markdown editor.
 - Import and save files from GitHub, Dropbox, Google Drive and One Drive
 - Drag and drop markdown and HTML files into Dillinger
 - Export documents as Markdown, HTML and PDF
+
+Facebook clone projects.
+
+## Functionalities
+- ➢ Users can able to sign in with google account.
+- ➢ Application automatic set user name and avatar whose collected from the user google account.
+- ➢Every user sees the other user's post.
+- ➢ Every user is able to create a post.
+- ➢ Firebase authentication and client-side
+deployment on netlify.
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
